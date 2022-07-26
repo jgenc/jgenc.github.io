@@ -17,3 +17,6 @@ date:   2022-07-26 19:39:43 +0300
 categories: jekyll update
 ---
 ```
+
+## Should start checking out how to change a theme, or atleast update this 
+
